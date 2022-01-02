@@ -7,12 +7,12 @@ class utilityEmpWage {
 	public final int isPresent = 1;
 	public final int isAbsent = 2;
 	public final int isPartTime = 3;
-//	    public int wagePerHr = 20;
+        public int wagePerHr = 20;
 	public int fullDayHr = 8;
 	public int partTimeHr = 4;
-//	    public int maxWorkingDays = 20;
+	public int maxWorkingDays = 20;
 	public int workingDays = 0;
-//	    public  int maxWorkingHr = 100;
+        public  int maxWorkingHr = 100;
 	public int workingHr = 0;
 	public int dailyWage;
 	public int hrs = 0;
