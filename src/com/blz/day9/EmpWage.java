@@ -34,6 +34,7 @@ public class EmpWage {
 		System.out.println("Welcome To Employee Wage Computation");
 		utilityEmpWage empWage = new utilityEmpWage();
 		empWage.present();
+		empWage.dailyWage();
 	}
 
 }
