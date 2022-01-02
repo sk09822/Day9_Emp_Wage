@@ -43,7 +43,6 @@ public class EmpWage {
 
 	public static void main(String[] args) {
 		System.out.println("Welcome To Employee Wage Computation");
-		System.out.println("Welcome to employee wage computation problem.");
 		utilityEmpWage bridgrLabz = new utilityEmpWage();
 		utilityEmpWage airtel = new utilityEmpWage();
 		System.out.println("For bridgeLabz employee : ");
